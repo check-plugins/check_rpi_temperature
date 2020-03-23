@@ -7,8 +7,6 @@ A different warning threshold can be set, the threshold for critical level is ca
 
 ## Installation
 
-The installation requires Python 3.
-
 I usually install additional plugins under `/usr/local/lib/nagios/plugins`.
 So, it works out of the box, if you just do:
 
